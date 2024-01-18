@@ -4,14 +4,14 @@
 
 This project involves a comprehensive analysis of Spotify data with a focus on extracting meaningful insights from various musical attributes. The analysis is performed using Python programming language and popular data analysis libraries like Pandas, Seaborn, and Matplotlib within a Jupyter Notebook environment.
 
-# Tools Used
+## Tools Used
 
     Python: Primary programming language for data analysis.
     Jupyter Notebook: Interactive environment for code execution, data visualization, and analysis.
     Pandas: Library for data manipulation and analysis.
     Seaborn and Matplotlib: Libraries for creating visualizations.
 
-# Analysis Steps
+## Analysis Steps
 
     The initial step involves converting the duration of songs from milliseconds to seconds for uniformity and ease of analysis.
 
@@ -25,6 +25,6 @@ This project involves a comprehensive analysis of Spotify data with a focus on e
 
     A line plot is generated to illustrate how the average duration of songs has changed over the years. This provides insights into trends in song duration across different time periods.
 
-# Conclusion
+## Conclusion
 
 The Spotify data analysis project yields valuable insights into the relationships between various musical attributes and their evolution over time. By visualizing correlations, distributions, and trends, this analysis provides a comprehensive understanding of the Spotify dataset. These findings can be utilized by music enthusiasts, industry professionals, and data scientists for various purposes, such as playlist creation, trend analysis, and genre exploration.
